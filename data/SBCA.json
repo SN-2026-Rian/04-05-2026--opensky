@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-05-09T13:00:36.811517+00:00",
+  "updated_at": "2026-05-09T13:12:21.754760+00:00",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "AD4727",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-05-09T18:25:00+00:00",
+      "time_iso": "2026-05-09T18:25:00+00:00",
+      "status": "programado"
+    },
     {
       "callsign": "AD5094",
       "airline": "Azul",
@@ -73,7 +82,7 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-09T10:00:00+00:00",
-      "time_iso": "2026-05-09T09:54:00+00:00",
+      "time_iso": "2026-05-09T09:56:00+00:00",
       "status": "em voo"
     },
     {
@@ -382,7 +391,7 @@
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-09T10:40:00+00:00",
       "time_iso": "2026-05-09T10:40:00+00:00",
-      "status": "em voo"
+      "status": "programado"
     },
     {
       "callsign": "LA3400",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T13:00:45.016699+00:00",
+  "updated_at": "2026-05-09T13:12:27.365193+00:00",
   "airport_icao": "SBLO",
   "airport_name": "Londrina",
   "source": "AviationStack",
@@ -82,8 +82,8 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-09T10:25:00+00:00",
-      "time_iso": "2026-05-09T10:25:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-05-09T10:17:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "LA4531",
